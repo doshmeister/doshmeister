@@ -5,4 +5,4 @@ Currently building Cymbal, a ReactJS and NodeJS based shipping web-app, which is
 If you want to make any optimisations or fixes to my code (which is fairly poor due to me being new to ReactJS) feel free to do so, or contact me on my socials shown below.
 
 Twitter: @toomanyjay
-Discord: jaywith5ys#7545
+Discord: doshmeister#7545
